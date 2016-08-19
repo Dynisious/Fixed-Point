@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fixed Point", "Fixed Point\Fixed Point.vcxproj", "{17881FBE-53DC-4284-907F-7E5CC8D4FEDA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fixed Point Test", "..\Fixed Point Test\Fixed Point Test.vcxproj", "{9B50BEE2-A739-4C29-B9D6-E1121F31B182}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17881FBE-53DC-4284-907F-7E5CC8D4FEDA}.Debug|x64.ActiveCfg = Debug|x64
+		{17881FBE-53DC-4284-907F-7E5CC8D4FEDA}.Debug|x64.Build.0 = Debug|x64
+		{17881FBE-53DC-4284-907F-7E5CC8D4FEDA}.Debug|x86.ActiveCfg = Debug|Win32
+		{17881FBE-53DC-4284-907F-7E5CC8D4FEDA}.Debug|x86.Build.0 = Debug|Win32
+		{17881FBE-53DC-4284-907F-7E5CC8D4FEDA}.Release|x64.ActiveCfg = Release|x64
+		{17881FBE-53DC-4284-907F-7E5CC8D4FEDA}.Release|x64.Build.0 = Release|x64
+		{17881FBE-53DC-4284-907F-7E5CC8D4FEDA}.Release|x86.ActiveCfg = Release|Win32
+		{17881FBE-53DC-4284-907F-7E5CC8D4FEDA}.Release|x86.Build.0 = Release|Win32
+		{9B50BEE2-A739-4C29-B9D6-E1121F31B182}.Debug|x64.ActiveCfg = Debug|x64
+		{9B50BEE2-A739-4C29-B9D6-E1121F31B182}.Debug|x64.Build.0 = Debug|x64
+		{9B50BEE2-A739-4C29-B9D6-E1121F31B182}.Debug|x86.ActiveCfg = Debug|Win32
+		{9B50BEE2-A739-4C29-B9D6-E1121F31B182}.Debug|x86.Build.0 = Debug|Win32
+		{9B50BEE2-A739-4C29-B9D6-E1121F31B182}.Release|x64.ActiveCfg = Release|x64
+		{9B50BEE2-A739-4C29-B9D6-E1121F31B182}.Release|x64.Build.0 = Release|x64
+		{9B50BEE2-A739-4C29-B9D6-E1121F31B182}.Release|x86.ActiveCfg = Release|Win32
+		{9B50BEE2-A739-4C29-B9D6-E1121F31B182}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
